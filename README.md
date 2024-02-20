@@ -17,7 +17,7 @@ This is a simple Todo List application built with React. It allows users to crea
 To use the React Todo List application in your project, you can clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-todo-list.git
+git clone https://github.com/owaissaleem62/react-todo-list.git
 ```
 Then, navigate to the project directory and install dependencies:
 ```bash
